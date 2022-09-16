@@ -1,0 +1,2 @@
+# NotEnoughCoins_
+/nec toggle
